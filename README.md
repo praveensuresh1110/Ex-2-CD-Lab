@@ -1,5 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
+# DATE : 10.08.26
+# Register No : 212225040314
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
 
